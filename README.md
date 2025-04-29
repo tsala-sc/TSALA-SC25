@@ -27,8 +27,8 @@ It was evaluated on two real HPC systems (TOP500), achieving up to:
 
 - **C1**: A novel TCN-based framework capturing temporal patterns and application context.
 - **C2**: A preprocessing pipeline extracting features from integrated system logs.
-- **C3**: Empirical evaluation on two heterogeneous HPC systems.
-- **C4**: Ablation studies showing impact of temporal features and embeddings.
+- **C3**: Overall evaluation on two heterogeneous HPC systems.
+- **C4**: Evaluation showing impact of temporal features, embeddings, and TCN-based model.
 
 ---
 
@@ -39,7 +39,7 @@ It was evaluated on two real HPC systems (TOP500), achieving up to:
 | `src/`        | Source code for preprocessing, training, evaluation |
 | `models/`     | Pretrained TSALA models (`.h5`) |
 | `results/`    | Prediction outputs, R²/RMSE values, baseline comparisons |
-| `write_volatility.pdf` | Periodic variability visualization |
+| `write_volatility.pdf` | Write throughput volatility visualization |
 
 
 ---
