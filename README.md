@@ -7,7 +7,7 @@ This repository contains the source code, models, and evaluation scripts for **T
 
 ---
 
-## 🔍 Overview
+## Overview
 
 TSALA predicts HPC application performance (runtime, write throughput, read throughput) by analyzing system logs. It integrates:
 
@@ -44,7 +44,7 @@ It was evaluated on two real HPC systems (TOP500), achieving up to:
 
 ---
 
-## ⚙Requirements
+## Requirements
 
 - Python 3.9.19  
 - TensorFlow 2.9.0  
