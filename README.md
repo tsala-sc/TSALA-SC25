@@ -32,7 +32,7 @@ It was evaluated on two real HPC systems (TOP500), achieving up to:
 
 ---
 
-## 📂 Artifact Contents
+## Artifact Contents
 
 | File / Folder | Description |
 |---------------|-------------|
