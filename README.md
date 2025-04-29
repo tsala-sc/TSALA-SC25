@@ -19,7 +19,7 @@ TSALA predicts HPC application performance (runtime, write throughput, read thro
 It was evaluated on two real HPC systems (TOP500), achieving up to:
 - Runtime: R² = 0.88
 - Write Throughput: R² = 0.94
-- 📖 Read Throughput: R² = 0.92
+- Read Throughput: R² = 0.92
 
 ---
 
