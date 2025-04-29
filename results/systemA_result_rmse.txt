@@ -1,0 +1,5 @@
+Metric           | All (Scaled) | 95% (Restored)
+-----------------+--------------+---------------
+Runtime          | 0.06         | 0.37 (s)      
+Write Throughput | 0.03         | 0.02 (GB/s)   
+Read Throughput  | 0.04         | 0.02 (GB/s)   

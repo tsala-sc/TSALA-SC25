@@ -1,0 +1,5 @@
+Model Variant       | Runtime | Write Throughput | Read Throughput
+--------------------+---------+------------------+----------------
+Default             | 0.88    | 0.94             | 0.9            
+Without Periodicity | 0.88    | 0.88             | 0.9            
+Without Embedding   | 0.82    | 0.9              | 0.85           

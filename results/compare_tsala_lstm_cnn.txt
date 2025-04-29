@@ -1,0 +1,5 @@
+Model | RMSE       
+------+------------
+TSALA | 0.02 (GB/s)
+LSTM  | 0.07 (GB/s)
+CNN   | 0.15 (GB/s)
